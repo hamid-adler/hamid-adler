@@ -15,13 +15,16 @@
 </div>
 
 #
-<img alt="Coder GIF" height=300 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align='right'/>
+<h1>
+    <img alt="Coder GIF" height=300 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align='right'/>
+</h1>
+
 <p>
 🖥️ &emsp; Enjoy to do programming.<br>
 ❤️ &emsp; Love to writing code and learning new features.
 </p>
 
-#
+
 <p align="center">
   <a href="https://github.com/hamid-adler">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamid-adler&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
