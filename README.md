@@ -8,15 +8,8 @@
 </a>
 </div>
 <div align='center'>
-    <a href="https://www.linkedin.com/in/hamid-adler-588872398/" >
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="linkedin">
-    </a>
-    <a href="https://instagram/hamid_adler">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge" alt="instagram">
-    </a>
-    <a href="https://t.me/Hamid_adler">
-        <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge" alt="telegram">
-    </a>
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/hamid-adler-588872398/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge)]("https://instagram/hamid_adler")
+[![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge)](https://t.me/Hamid_adler)
 </div>
