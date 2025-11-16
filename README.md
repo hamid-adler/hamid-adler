@@ -19,4 +19,4 @@
 🖥️ &emsp; Enjoy to do programming.<br>
 ❤️ &emsp; Love to writing code and learning new features.
 
-<img alt="Coder GIF" height=100 width=250 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align='right'/>
+<img alt="Coder GIF" height=200 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align='right'/>
