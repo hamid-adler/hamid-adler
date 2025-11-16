@@ -13,3 +13,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge)]("https://instagram/hamid_adler")
 [![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge)](https://t.me/Hamid_adler)
 </div>
+
+#
+
+🖥️ &emsp; Enjoy to do programming.<br>
+❤️ &emsp; Love to writing code and learning new features.
