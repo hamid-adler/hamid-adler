@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/hamid-adler-588872398/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="linkedin">
     </a>
-    <a href="https://t.me/Hamid_adler" target="_blank">
+    <a href="https://t.me/@Hamid_adler" target="_blank">
         <img src="https://img.shields.io/badge/telegram-0077B5?style=for-the-badge" alt="telegram">
     </a>
 
