@@ -14,17 +14,16 @@
 [![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge)](https://t.me/Hamid_adler)
 </div>
 
-#
-<h1>
-    <img alt="Coder GIF" height=300 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align='right'/>
-</h1>
 
+<img alt="Coder GIF" height=300 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align='right'/>
 <p>
 🖥️ &emsp; Enjoy to do programming.<br>
 ❤️ &emsp; Love to writing code and learning new features.
 </p>
 
+<br><br><br><br><br><br><br><br><br><br>
 
+#
 <p align="center">
   <a href="https://github.com/hamid-adler">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamid-adler&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
