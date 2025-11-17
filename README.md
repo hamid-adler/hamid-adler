@@ -14,8 +14,8 @@
 [![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge)](https://t.me/Hamid_adler)
 </div>
 
-
 <img alt="Coder GIF" height=300 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align='right'/>
+
 <p>
 🖥️ &emsp; Enjoy to do programming.<br>
 ❤️ &emsp; Love to writing code and learning new features.
