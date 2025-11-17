@@ -27,8 +27,6 @@ dance
 Enjoy and enjoy let them resurrect you with a romantic symphony in the resurrection.
 </p>
 
-<br><br><br><br><br><br><br><br><br><br><br>
-
 #
 <p align="center">
   <a href="https://github.com/hamid-adler">
