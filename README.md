@@ -16,8 +16,8 @@
 
 <img alt="Coder GIF" height=300 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align='right'/>
 
-
 <p>
+<br>
 🖥️ &emsp; Enjoy to do programming.<br>
 ❤️ &emsp; Love to writing code and learning new features.
 </p>
