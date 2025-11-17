@@ -17,9 +17,14 @@
 <img alt="Coder GIF" height=300 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align='right'/>
 
 <p>
-<br><br><br><br><br><br><br><br><br><br>
+<br>
 🖥️ &emsp; Enjoy to do programming.<br>
-❤️ &emsp; Love to writing code and learning new features.
+❤️ &emsp; Love to writing code and learning new features.<br>
+💀 &emsp; now that the day of judjment is going to be witnessed by all  the members of your body
+so kiss
+caress her
+dance
+Enjoy and enjoy let them resurrect you with a romantic symphony in the resurrection.
 </p>
 
 <br><br><br><br><br><br><br><br><br><br><br>
