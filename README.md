@@ -37,8 +37,6 @@ Thanks for visiting my profile!
 </p>
 </div>
 
-<br><br><br><br><br><br><br>
-
 #
 <p align="center">
   <a href="https://github.com/hamid-adler">
