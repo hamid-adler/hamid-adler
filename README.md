@@ -9,7 +9,7 @@
 </div>
 <div align='center'>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/hamid-adler-588872398/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/hamid-adler)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge)]("https://instagram/hamid_adler")
 [![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge)](https://t.me/Hamid_adler)
 </div>
@@ -18,13 +18,22 @@
 
 <p>
 <br>
-🖥️ &emsp; Enjoy to do programming.<br>
-❤️ &emsp; Love to writing code and learning new features.<br>
-💀 &emsp; now that the day of judjment is going to be witnessed by all  the members of your body
-so kiss
-caress her
-dance
-Enjoy and enjoy let them resurrect you with a romantic symphony in the resurrection.
+I'm a Front-End Developer with a strong foundation in HTML and CSS, focused on building clean, responsive, and user-friendly web interfaces.
+
+💡 I enjoy turning ideas and designs into real, functional websites with attention to detail and performance.  
+📱 I build responsive layouts that work smoothly across different devices and screen sizes.  
+
+🚀 What I care about:
+- Writing clean and maintainable code  
+- Creating modern and accessible UI  
+- Improving user experience  
+- Continuous learning and growth  
+
+🌱 Currently expanding my front-end skills and exploring modern tools and best practices to become a professional developer.
+
+I'm always open to learning new technologies, collaborating on interesting projects, and growing as a developer.
+
+Thanks for visiting my profile!
 </p>
 </div>
 
@@ -38,16 +47,16 @@ Enjoy and enjoy let them resurrect you with a romantic symphony in the resurrect
 </p>
 
 <a> 
-    <a href="https://github.com/hamid-adler"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hamid-adler&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/hamid-adler"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hamid-adler&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/hamid-adler"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hamid-adler&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/hamid-adler"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hamid-adler&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 <br>
 <p align="center">
   <a href="https://github.com/hamid-adler">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamid-adler&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamid-adler&theme=radical" alt="GitHub Contribution"/>
   </a>
 </p>
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamid-adler&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamid-adler&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
