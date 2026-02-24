@@ -17,7 +17,6 @@
 <img alt="Coder GIF" height=300 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align='right'/>
 
 <p>
-<br>
 I'm a Front-End Developer with a strong foundation in HTML and CSS, focused on building clean, responsive, and user-friendly web interfaces.
 
 💡 I enjoy turning ideas and designs into real, functional websites with attention to detail and performance.  
